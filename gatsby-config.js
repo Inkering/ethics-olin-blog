@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Ethics@Olin`,
+    title: `E:Ethics`,
     author: `Austin Veseliza, Shreya Chowdhary, Dieter Brehm, Manu Patil, and Shashank Swaminathan`,
     description: `A team studying ethics at Olin.`,
     siteUrl: `https://ethics.dieterbrehm.com/`,
